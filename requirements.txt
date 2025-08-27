@@ -5,3 +5,5 @@ transformers>=4.30.0
 torch>=2.0.0
 google-api-python-client>=2.80.0
 python-dateutil>=2.8.0
+pdfplumber
+streamlit
