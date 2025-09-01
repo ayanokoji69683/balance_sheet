@@ -2,3 +2,8 @@
 /blog.py
 /converted_file.xlsx
 /site.html
+/.env
+/.streamlit/secrets.toml
+/connector.py
+/token.json
+/credentials.json
